@@ -13,7 +13,9 @@
   - Install with:
 
 ```
+ sudo apt update
  sudo apt install cmake
+
 ```
 
 - GNU make (to build)
@@ -27,7 +29,7 @@
   - Install with:
 
 ```
- sudo apt install mesa-utils libglu1-mesa-dev freeglut3-dev mesa-common-dev
+ sudo apt install mesa-utils libglu1-mesa-dev freeglut3-dev mesa-common-dev libxorg-dev libx11-dev libxrandr-dev
 ```
 
 ## Working enviroments
