@@ -6,7 +6,10 @@
 
 - Muhammad Abdullah 21L-5288
 - Safi Ullah 21L-1851
-
+- Maidah Rasail 21L-5196
+- Mahrukh Imtiaz 21L-1824
+- Menal Naeem 21L-1872
+ 
 ## Dependencies
 
 - CMake (to generate makefile)
