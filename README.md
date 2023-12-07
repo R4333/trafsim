@@ -32,8 +32,7 @@
   - Install with:
 
 ```
- sudo apt install mesa-utils libglu1-mesa-dev freeglut3-dev mesa-common-dev libx11-dev libxrandr-dev
- sudo apt-get install libnss-systemd libpam-systemd libsystemd0 libudev-dev libudev1 systemd systemd-sysv systemd-timesyncd udev
+ sudo apt install mesa-utils libglu1-mesa-dev freeglut3-dev mesa-common-dev libx11-dev libxrandr-dev libnss-systemd libpam-systemd libsystemd0 libudev-dev libudev1 systemd systemd-sysv systemd-timesyncd udev libfreetype-dev
 ```
 
 ## Working enviroments
